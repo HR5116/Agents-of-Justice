@@ -16,3 +16,5 @@ User selects a case from the CSV file.
 Agents are initialized for each courtroom role, each with a unique system prompt.
 Simulation runs through trial phases, with agents generating responses in turn.
 Transcript is generated and displayed to the user.
+
+The api key is set in the env variable 'token.env'
